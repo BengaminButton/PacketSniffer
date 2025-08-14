@@ -1,5 +1,8 @@
 # PacketSniffer
 
+<img width="1884" height="1003" alt="изображение" src="https://github.com/user-attachments/assets/89f43524-15c6-4d9e-b535-c8617cc6edf4" />
+
+
 Лёгкий сниффер сетевых пакетов на C++ с Qt GUI и libpcap.
 
 ## Возможности
@@ -82,4 +85,7 @@ sudo setcap cap_net_raw,cap_net_admin+eip /usr/local/bin/PacketSniffer_qt
   - Проверьте, что интерфейс существует: `ip link`
 
 ## Лицензия
-Добавьте информацию о лицензии (например, MIT) при публикации на GitHub.
+MIT LICENSE
+
+
+Автор: t.me/Bengamin_Button t.me/LeshaCoder t.me/XillenAdapter
